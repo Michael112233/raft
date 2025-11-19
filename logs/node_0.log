@@ -1,0 +1,11 @@
+[INFO] 2025-11-19 21:26:29.850264 [INFO] Node 0 started
+[INFO] 2025-11-19 21:26:29.850431 [INFO] Node 0 started raft
+[INFO] 2025-11-19 21:26:29.850485 [INFO] start listening on 127.0.0.1:38000
+[INFO] 2025-11-19 21:26:30.404286 [INFO] Handle Request Vote Message: from 127.0.0.1:38200 to 127.0.0.1:38000, term 0
+[INFO] 2025-11-19 21:26:30.405071 [INFO] Send Request Vote Response Message to 127.0.0.1:38200
+[INFO] 2025-11-19 21:26:30.407078 [INFO] Handle Append Entries Message: from 127.0.0.1:38200 to 127.0.0.1:38000, term 1, vote number 3
+[INFO] 2025-11-19 21:26:30.407148 [INFO] current leader: 127.0.0.1:38200
+[INFO] 2025-11-19 21:26:30.407170 [INFO] Raft ended!
+[INFO] 2025-11-19 21:26:30.769864 [INFO] Send Request Vote Message to 127.0.0.1:38100
+[INFO] 2025-11-19 21:26:30.770051 [INFO] Send Request Vote Message to 127.0.0.1:38200
+[INFO] 2025-11-19 21:26:30.770365 [INFO] Send Request Vote Message to 127.0.0.1:38300
